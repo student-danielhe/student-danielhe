@@ -3,6 +3,7 @@ I am Daniel He, a Gameplay Programmer from SMU Guildhall.
 As a programmer, I aim to use simple and elegant code to create deep and intricate gameplay experience.
 
 Published Projects:
+
 Pogo Rogue: 
 
 ![alt text](https://github.com/student-danielhe/student-danielhe/blob/main/Pogo.png)

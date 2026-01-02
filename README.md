@@ -16,6 +16,9 @@ HardDriverZ:
 
 https://store.steampowered.com/app/3533890/HardDriverz/
 
+Personal Projects:
+https://github.com/student-danielhe/Portfolio
+
 Contact me:
 danielhe@smu.edu
 <!--

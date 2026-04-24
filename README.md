@@ -17,7 +17,11 @@ HardDriverZ:
 https://store.steampowered.com/app/3533890/HardDriverz/
 
 Personal Projects:
-https://github.com/student-danielhe/Portfolio
+https://github.com/student-danielhe/SimpleMiner
+https://github.com/student-danielhe/RogueExile
+https://github.com/student-danielhe/Doomenstein
+
+
 
 Contact me:
 danielhe@smu.edu

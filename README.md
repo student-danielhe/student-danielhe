@@ -17,6 +17,7 @@ HardDriverZ:
 https://store.steampowered.com/app/3533890/HardDriverz/
 
 Personal Projects:
+
 https://github.com/student-danielhe/SimpleMiner
 
 https://github.com/student-danielhe/RogueExile
